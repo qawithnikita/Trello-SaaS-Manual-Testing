@@ -47,8 +47,7 @@ The project showcases practical QA skills in analyzing application behavior, ide
 |---|---|
 | Test Plan | Testing objectives, scope, approach, risks, and exit criteria |
 | Test Cases | Detailed steps, preconditions, test data, and expected results |
-| Bug Reports | Reproduction steps, expected vs. actual results, severity, and evidence |
-| Test Summary | Execution status, defect overview, limitations, and outstanding risks |
+| Bug Reports | Reproduction steps, expected vs. actual results, severity, priority, and supporting evidence |
 
 ## Test Design Approach
 
